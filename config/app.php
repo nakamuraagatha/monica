@@ -162,6 +162,7 @@ return [
         Intervention\Image\ImageServiceProvider::class,
         Laravel\Cashier\CashierServiceProvider::class,
         Sentry\SentryLaravel\SentryLaravelServiceProvider::class,
+        NotificationChannels\Telegram\TelegramServiceProvider::class,
     ],
 
     /*
