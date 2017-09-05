@@ -1,0 +1,60 @@
+<?php
+
+return [
+    'update' => 'Update',
+    'save' => 'Simpan',
+    'add' => 'Tambah',
+    'cancel' => 'Batal',
+    'delete' => 'Hapus',
+    'edit' => 'Ubah',
+    'upload' => 'Unggah',
+    'close' => 'Tutup',
+    'remove' => 'Menghapus',
+
+    'markdown_description' => 'Ingin memformat teks Anda dengan cara yang bagus? Kami mendukung penurunan harga untuk menambahkan tebal, miring, daftar dan banyak lagi.',
+    'markdown_link' => 'Baca Dokumentasi',
+
+    'header_settings_link' => 'Pengaturan',
+    'header_logout_link' => 'Keluar',
+
+    'main_nav_cta' => 'Tambah Orang',
+    'main_nav_dashboard' => 'Dashboard',
+    'main_nav_family' => 'Kontak',
+    'main_nav_journal' => 'Jurnal',
+    'main_nav_activities' => 'Aktifitas',
+    'main_nav_tasks' => 'Tugas',
+    'main_nav_trash' => 'Sampah',
+
+    'footer_remarks' => 'Any remarks?',
+    'footer_send_email' => 'Kirim Saya Email',
+    'footer_privacy' => 'Privacy policy',
+    'footer_release' => 'Release notes',
+    'footer_newsletter' => 'Newsletter',
+    'footer_source_code' => 'Kontribusi',
+    'footer_version' => 'Versi: :version',
+    'footer_new_version' => 'Versi terbaru telah tersedia',
+
+    'footer_modal_version_whats_new' => 'What\'s new',
+    'footer_modal_version_release_away' => 'You are 1 release behind the latest version available. You should update your instance.|You are :number releases behind the latest version available. You should update your instance.',
+
+    'breadcrumb_dashboard' => 'Dashboard',
+    'breadcrumb_list_contacts' => 'Daftar Orang',
+    'breadcrumb_journal' => 'Jurnal',
+    'breadcrumb_settings' => 'Pengaturan',
+    'breadcrumb_settings_export' => 'Export',
+    'breadcrumb_settings_users' => 'Orang',
+    'breadcrumb_settings_users_add' => 'Tambah Orang',
+    'breadcrumb_settings_subscriptions' => 'Berlangganan',
+    'breadcrumb_settings_import' => 'Import',
+    'breadcrumb_settings_import_report' => 'Import laporan',
+    'breadcrumb_settings_import_upload' => 'Unggah',
+    'breadcrumb_settings_tags' => 'Tags',
+    'breadcrumb_add_significant_other' => 'Add significant other',
+    'breadcrumb_edit_significant_other' => 'Edit significant other',
+    'breadcrumb_add_note' => 'Tambah Catatan',
+    'breadcrumb_edit_note' => 'Edit Catatan',
+
+    'gender_male' => 'Pria',
+    'gender_female' => 'Wanita',
+    'gender_none' => 'Tidak ditentukan',
+];
