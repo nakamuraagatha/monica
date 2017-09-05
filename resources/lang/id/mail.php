@@ -2,10 +2,10 @@
 
 return [
 
-    'subject_line' => 'Reminder for :contact',
+    'subject_line' => 'Pengingat untuk :contact',
     'greetings' => 'Hi :username',
-    'want_reminded_of' => 'YOU WANTED TO BE REMINDED OF',
-    'for' => 'FOR:',
-    'footer_contact_info' => 'Add, view, complete, and change information about this contact:',
+    'want_reminded_of' => 'Anda Ingin Diperhatikan',
+    'for' => 'Untuk:',
+    'footer_contact_info' => 'Tambah, Lihat, komplit, dan ubah informasi tentang kontak ini:',
 
 ];
