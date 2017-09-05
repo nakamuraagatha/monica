@@ -13,10 +13,10 @@ return [
     |
     */
 
-    'failed' => 'These credentials do not match our records.',
-    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
-    'not_authorized' => 'You are not authorized to execute this action',
-    'signup_disabled' => 'Registration is currently disabled',
-    'back_homepage' => 'Back to homepage',
+    'failed' => 'Kredensial ini tidak sesuai dengan catatan kami.',
+    'throttle' => 'Terlalu banyak usaha login. Silakan coba lagi masuk :seconds detik.',
+    'not_authorized' => 'Anda tidak berwenang untuk melakukan tindakan ini',
+    'signup_disabled' => 'Pendaftaran saat ini dinonaktifkan',
+    'back_homepage' => 'Kembali ke beranda',
 
 ];

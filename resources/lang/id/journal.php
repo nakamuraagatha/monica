@@ -9,5 +9,5 @@ return [
     'journal_add_cta' => 'Simpan',
     'journal_blank_cta' => 'Tambahkan Jurnal Pertama anda',
     'journal_blank_description' => 'The journal lets you write events that happened to you, and remember them.',
-    'delete_confirmation' => 'Are you sure you want to delete this journal entry?',
+    'delete_confirmation' => 'Apakah anda yakin ingin menghapus jurnal?',
 ];

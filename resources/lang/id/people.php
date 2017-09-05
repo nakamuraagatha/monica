@@ -68,8 +68,8 @@ return [
     // age - birthday
     'birthdate_not_set' => 'Birthdate is not set',
     'age_approximate_in_years' => 'around :age years old',
-    'age_exact_in_years' => ':age years old',
-    'age_exact_birthdate' => 'born :date',
+    'age_exact_in_years' => ':age tahun',
+    'age_exact_birthdate' => 'lahir :date',
 
     // Last called
     'last_called' => 'Last called: :date',
